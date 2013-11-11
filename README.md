@@ -10,5 +10,5 @@ Derived from the works of SLK's Conky CPU Clock and Satya's Conky Google Now.
 Licensed under the GNU GPL-3.0+.
 
 ## Installation Instructions:
-* Run install.sh
-* Add $HOME/.conky_startup to your startup programs.
+* Run `install.sh`
+* Add `$HOME/.conky_startup` to your startup programs.
